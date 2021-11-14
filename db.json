@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 3,
+      "text": "Learning",
+      "day": "10th July at 11:00 am",
+      "reminder": false
+    },
+    {
+      "text": "New Task",
+      "day": "Next Day ",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Movie",
+      "day": "Someday",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Next Task",
+      "day": "New day",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
